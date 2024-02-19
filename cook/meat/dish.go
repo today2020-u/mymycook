@@ -1,6 +1,6 @@
 package meat
 
-import "packagestudy/logprint"
+import "github.com/today2020-u/logprint"
 
 func MakeDish(name string) {
 	msg := "做的荤菜: " + name
